@@ -1,27 +1,14 @@
 # Juego_SistemasEmbebidos-
 
-Bienvenido al nuestro repositorio de juego con leds.
+Bienvenido al nuestro repositorio de juego con leds como proyecto de la materia Sistemas embebidos.
+Como puedes observar vas a encontrar varios archivos en este repositorio que muestran su significado a continuación.
 
-Carpetas.
+1. Materiales.csv
 
+2. Carpeta llamada "Estructura del hardware". Aquí encontraras los pdf´s que muestran la estructura física del hardware de este sistema embebido. Además de que encontraras los archivos originales de esta estructura que se hizo con ayuda de un software llamado KiCad. Los importantes son: 
+•	Juego (parte 1) primeras 2 filas de leds y botones.pdf
+•	Juego (parte 2) siguientes 2 filas de leds
 
-Pasos.
-
-
-
-Materiales.
-
-64 - leds rojos
-2 - Arduinos
-64 - resistencias de 330 ohms
-1 - resistencia de 1 Mohms
-6 - resistencias de 1 Kohms
-4 - push buttons
-8 - sockets de 40 pines
-8 - sockets de 16 pines
-8 - registro de desplazamiento 74HC595
-1 - Cautin
-1 - Soldadura 60/40
-138 - cables macho-macho o bien trozos de cable de red.
-
+3. Carpeta llamada “Código”. Aquí encontraras el código del juego versión 1 que se uso en nuestro sistema embebido.
+El archivo es un Arduino file pues se uso el IDE de Arduino para poder programar su función.
 
