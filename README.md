@@ -16,21 +16,16 @@ El archivo es un Arduino file pues se uso el IDE de Arduino para poder programar
 Antes de iniciar con este proyecto se tiene que mencionar que es la creación de un sistema embebido muy básico y para poder hacerlo es importante que se tengan conceptos básicos de electrónica como lo son: manejo de voltajes, pull down, pull up, manejo de resistencias, calcular la resistencia de un led con voltaje o de un botón, entre otros. Además que mas adelante también debes de saber sobre programación básica y el manejo de bits para entender un poco de cómo funciona el programa.
 Una vez mencionado esto vamos a hacer el paso a paso el proyecto.
 
-#Descripción general del proyecto.
+# Descripción general del proyecto.
 El proyecto trata de hacer desde cero una pantalla de leds 8x8 usando registros de desplazamiento por cada una de las filas para controlar los leds y hacer un control muy básico que se maneja por voltaje para que se pueda mover en este caso el personaje del jeugo que se representa con un led.
 							
-							
-							
-							
-							
-							
-							
-							
+![image](https://user-images.githubusercontent.com/106703825/235551403-dbbedd13-ecb7-497f-832a-acb14096a39e.png)
+						
 
-##Materiales.
+## Materiales.
 Lo primero es comprar los materiales. Estos podrás encontrarlos en el archivo Excel en este repositorio.
 
-###Entendiendo la estructura del hardware.
+### Entendiendo la estructura del hardware.
 La estructura del hardware del proyecto fue elaborado en kitcad en donde se presentan todos los materiales que se van a usar de la mejor manera.
 Consulta los PDFs dentro de la carpeta estructura de hardware.
 
