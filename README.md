@@ -37,3 +37,4 @@ Consulta los PDFs dentro de la carpeta estructura de hardware.
 1.5	Pin data, latch y clock
 
 
+#1.1  Soldar los sockets 
