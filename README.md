@@ -37,9 +37,15 @@ En esta sección se adquirieron sockets para facilitar la colocación de los LED
 
 
 #1.2	 Soldar los cables para los lesd hacia los registros de desplazamiento
+Soldamos los cables de cada LED a los registros de desplazamiento, comenzando desde el exterior y avanzando hacia el interior, siguiendo el diagrama del proyecto.
+![image](https://user-images.githubusercontent.com/125621118/236074849-6874242f-a578-4e31-84a3-0201caf9c36e.png)
+![image](https://user-images.githubusercontent.com/125621118/236074861-fd31cbd3-62a4-4767-ae56-52ee5ecf9b39.png)
+
 #1.3	Soldar las resistencias y puentear a tierra
+Las resistencias de una de las hileras se agrupan y se sueldan a las patillas correspondientes. Luego, se repite este proceso con la otra hilera y se conectan ambos extremos de las resistencias a tierra.
+
 #1.4	Soldar las entradas de voltaje de los registros de desplazamiento hacia voltaje y las entradas de tierra hacia tierra
+
 #1.5	Pin data, latch y clock
-
-
-#1.1  Soldar los sockets 
+Como son 4 placas y cada placa contiene 2 registros el data,latch y clock se conectan entre sí de cada registro
+ 
