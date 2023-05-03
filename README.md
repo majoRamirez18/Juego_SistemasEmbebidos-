@@ -30,11 +30,16 @@ La estructura del hardware del proyecto fue elaborado en kitcad en donde se pres
 Consulta los PDFs dentro de la carpeta estructura de hardware.
 
 # 1. Pasos
-1.1	Soldar los sockets para los leds y para los registros de desplazamiento.
-1.2	 Soldar los cables para los lesd hacia los registros de desplazamiento
-1.3	Soldar las resistencias y puentear a tierra
-1.4	Soldar las entradas de voltaje de los registros de desplazamiento hacia voltaje y las entradas de tierra hacia tierra
-1.5	Pin data, latch y clock
+#1.1	Soldar los sockets para los leds y para los registros de desplazamiento.
+En esta sección se adquirieron sockets para facilitar la colocación de los LEDs, ya que cada placa perforada tiene dos hileras de 8 LEDs. Además, se soldaron las resistencias de cada hilera para evitar que se crucen y se dispongan en diferentes direcciones.
+![image](https://user-images.githubusercontent.com/125621118/236074730-86fd650f-ce3d-4626-9700-0d7bd0670a64.png)
+
+
+
+#1.2	 Soldar los cables para los lesd hacia los registros de desplazamiento
+#1.3	Soldar las resistencias y puentear a tierra
+#1.4	Soldar las entradas de voltaje de los registros de desplazamiento hacia voltaje y las entradas de tierra hacia tierra
+#1.5	Pin data, latch y clock
 
 
 #1.1  Soldar los sockets 
